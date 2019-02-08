@@ -95,7 +95,7 @@ p {
 }
 
 #contactDetails ul li a:hover { 
-	color: #cf8a05;
+	color: #ab9c13;
 }
 
 
@@ -123,7 +123,7 @@ section:last-child {
 }
 
 .sectionTitle h1 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: 'Lucida Handwriting', Times, Arial, sans-serif;
 	font-style: italic;
 	font-size: 1.5em;
 	color: #cf8a05;
@@ -137,7 +137,7 @@ section:last-child {
 
 .subDetails {
 	font-size: 0.8em;
-	font-style: italic;
+	font-style: bold;
 	margin-bottom: 3px;
 }
 
@@ -181,7 +181,7 @@ section:last-child {
 	#name, #contactDetails {
 		float: none;
 		width: 100%;
-		text-align: center;
+		text-align: right;
 	}
 	
 	.sectionTitle, .sectionContent {
