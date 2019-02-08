@@ -122,6 +122,11 @@ section:last-child {
 	width: 72.5%;
 }
 
+.BulletList {
+	list-style-position: inside; 
+	
+}
+
 .sectionTitle h1 {
 	font-family: 'Comic Sans MS', Times, Arial, sans-serif;
 	font-style: italic;
